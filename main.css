@@ -1,0 +1,54 @@
+/* Fon */
+
+body {
+    background-image: url("fon1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+}
+
+
+/* MENU */
+
+ul {
+    font-family: cursive;
+    font-size: 29px;
+    list-style: none;
+    background-color: #6f00ff;
+    height: 49px;
+    padding: 0;
+    margin: 10px 306px 100px 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 49px;
+    padding: 0 27px;
+    border-right: 2px solid #5100ff;
+    display: block;
+}
+
+a:hover {
+    background-color: #5100ff;
+}
+
+li {
+    float: left;
+}
+
+
+/* Intro */
+
+.intro {
+    font-family: cursive;
+    font-size: 55px;
+    color: #BA5B1C;
+    text-align: center;
+    padding-top: 10px;
+    width: 85%;
+    max-width: 11110px;
+    max-height: 111px;
+    margin: 0 auto;
+}
